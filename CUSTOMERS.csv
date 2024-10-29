@@ -1,0 +1,92 @@
+customer_id,customer_name,region_id,customer_address
+1,Alfreds Futterkiste ,1,Obere Str. 57 
+2,Ana Trujillo Emparedados y helados ,2,Avda. de la Constitución 2222 
+3,Antonio Moreno Taquería ,2,Mataderos 2312 
+4,Around the Horn ,3,120 Hanover Sq. 
+5,Berglunds snabbköp ,4,Berguvsvägen 8 
+6,Blauer See Delikatessen ,1,Forsterstr. 57 
+7,Blondel père et fils ,5,"24, place Kléber "
+8,Bólido Comidas preparadas ,6,"C/ Araquil, 67 "
+9,Bon app' ,5,"12, rue des Bouchers "
+10,Bottom-Dollar Marketse ,7,23 Tsawassen Blvd. 
+11,B's Beverages ,3,Fauntleroy Circus 
+12,Cactus Comidas para llevar ,8,Cerrito 333 
+13,Centro comercial Moctezuma ,2,Sierras de Granada 9993 
+14,Chop-suey Chinese ,9,Hauptstr. 29 
+15,Comércio Mineiro ,10,"Av. dos Lusíadas, 23 "
+16,Consolidated Holdings ,3,Berkeley Gardens 12 Brewery  
+17,Drachenblut Delikatessend ,1,Walserweg 21 
+18,Du monde entier ,5,"67, rue des Cinquante Otages "
+19,Eastern Connection ,3,35 King George 
+20,Ernst Handel ,11,Kirchgasse 6 
+21,Familia Arquibaldo ,10,"Rua Orós, 92 "
+22,FISSA Fabrica Inter. Salchichas S.A. ,6,"C/ Moralzarzal, 86 "
+23,Folies gourmandes ,5,"184, chaussée de Tournai "
+24,Folk och fä HB ,4,Åkergatan 24 
+25,Frankenversand ,1,Berliner Platz 43 
+26,France restauration ,5,"54, rue Royale "
+27,Franchi S.p.A. ,12,Via Monte Bianco 34 
+28,Furia Bacalhau e Frutos do Mar ,13,Jardim das rosas n. 32 
+29,Galería del gastrónomo ,6,"Rambla de Cataluña, 23 "
+30,Godos Cocina Típica ,6,"C/ Romero, 33 "
+31,Gourmet Lanchonetes ,10,"Av. Brasil, 442 "
+32,Great Lakes Food Market ,14,2732 Baker Blvd. 
+33,GROSELLA-Restaurante ,15,5ª Ave. Los Palos Grandes 
+34,Hanari Carnes ,10,"Rua do Paço, 67 "
+35,HILARIÓN-Abastos ,15,Carrera 22 con Ave. Carlos Soublette #8-35 
+36,Hungry Coyote Import Store ,14,City Center Plaza 516 Main St. 
+37,Hungry Owl All-Night Grocers ,16,8 Johnstown Road 
+38,Island Trading ,3,Garden House Crowther Way 
+39,Königlich Essen ,1,Maubelstr. 90 
+40,La corne d'abondance ,5,"67, avenue de l'Europe "
+41,La maison d'Asie ,5,1 rue Alsace-Lorraine 
+42,Laughing Bacchus Wine Cellars ,7,1900 Oak St. 
+43,Lazy K Kountry Store ,14,12 Orchestra Terrace 
+44,Lehmanns Marktstand ,1,Magazinweg 7 
+45,Let's Stop N Shop ,14,87 Polk St. Suite 5 
+46,LILA-Supermercado ,15,Carrera 52 con Ave. Bolívar #65-98 Llano Largo 
+47,LINO-Delicateses ,15,Ave. 5 de Mayo Porlamar 
+48,Lonesome Pine Restaurant ,14,89 Chiaroscuro Rd. 
+49,Magazzini Alimentari Riuniti ,12,Via Ludovico il Moro 22 
+50,Maison Dewey ,17,Rue Joseph-Bens 532 
+51,Mère Paillarde ,7,43 rue St. Laurent 
+52,Morgenstern Gesundkost ,1,Heerstr. 22 
+53,North/South ,3,South House 300 Queensbridge 
+54,Océano Atlántico Ltda. ,8,Ing. Gustavo Moncada 8585 Piso 20-A 
+55,Old World Delicatessen ,14,2743 Bering St. 
+56,Ottilies Käseladen ,1,Mehrheimerstr. 369 
+57,Paris spécialités ,5,"265, boulevard Charonne "
+58,Pericles Comidas clásicas ,2,Calle Dr. Jorge Cash 321 
+59,Piccolo und mehr ,11,Geislweg 14 
+60,Princesa Isabel Vinhoss ,13,Estrada da saúde n. 58 
+61,Que Delícia ,10,"Rua da Panificadora, 12 "
+62,Queen Cozinha ,10,"Alameda dos Canàrios, 891 "
+63,QUICK-Stop ,1,Taucherstraße 10 
+64,Rancho grande ,8,Av. del Libertador 900 
+65,Rattlesnake Canyon Grocery ,14,2817 Milton Dr. 
+66,Reggiani Caseifici ,12,Strada Provinciale 124 
+67,Ricardo Adocicados ,10,"Av. Copacabana, 267 "
+68,Richter Supermarkt ,9,Grenzacherweg 237 
+69,Romero y tomillo ,6,"Gran Vía, 1 "
+70,Santé Gourmet ,18,Erling Skakkes gate 78 
+71,Save-a-lot Markets ,14,187 Suffolk Ln. 
+72,Seven Seas Imports ,3,90 Wadhurst Rd. 
+73,Simons bistro ,19,Vinbæltet 34 
+74,Spécialités du monde ,5,"25, rue Lauriston "
+75,Split Rail Beer & Ale ,14,P.O. Box 555 
+76,Suprêmes délices ,17,"Boulevard Tirou, 255 "
+77,The Big Cheese ,14,89 Jefferson Way Suite 2 
+78,The Cracker Box ,14,55 Grizzly Peak Rd. 
+79,Toms Spezialitäten ,1,Luisenstr. 48 
+80,Tortuga Restaurante ,2,Avda. Azteca 123 
+81,Tradição Hipermercados ,10,"Av. Inês de Castro, 414 "
+82,Trail's Head Gourmet Provisioners ,14,722 DaVinci Blvd. 
+83,Vaffeljernet ,19,Smagsløget 45 
+84,Victuailles en stock ,5,"2, rue du Commerce "
+85,Vins et alcools Chevalier ,5,59 rue de l'Abbaye 
+86,Die Wandernde Kuh ,1,Adenauerallee 900 
+87,Wartian Herkku ,20,Torikatu 38 
+88,Wellington Importadora ,10,"Rua do Mercado, 12 "
+89,White Clover Markets ,14,305 - 14th Ave. S. Suite 3B 
+90,Wilman Kala ,20,Keskuskatu 45 
+91,Wolski ,21,ul. Filtrowa 68 
